@@ -1,0 +1,22 @@
+{
+  "name": "aiarena",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A multi-model AI playground to interact with, compare, and experiment with multiple AI providers like OpenAI, Gemini, and Claude through a unified interface. Built with React, TypeScript, Node.js, and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.9"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
